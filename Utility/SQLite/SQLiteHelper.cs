@@ -18,7 +18,7 @@ namespace WinApp.Core.Utility.SQLite
     public enum ColType
     {
         Text,
-        DateTime,
+        DateTime, 
         Integer,
         Decimal,
         BLOB
