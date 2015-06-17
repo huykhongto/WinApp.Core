@@ -55,7 +55,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
     <Compile Include="Utility\SQLite\SQLiteColumn.cs" />
     <Compile Include="Utility\SQLite\SQLiteColumnList.cs" />
     <Compile Include="Utility\SQLite\SQLiteHelper.cs" />
